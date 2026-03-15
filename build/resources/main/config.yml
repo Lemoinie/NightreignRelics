@@ -1,0 +1,12 @@
+# Gacha Costs Configuration
+# Tier 1: Delicate Favorite
+gacha:
+  tier1:
+    name: "Delicate Favorite"
+    price: 200
+  tier2:
+    name: "Equal Balance"
+    price: 400
+  tier3:
+    name: "Grand Fortune"
+    price: 1000

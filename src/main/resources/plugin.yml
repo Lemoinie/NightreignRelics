@@ -1,0 +1,12 @@
+name: NightreignRelics
+version: "${version}"
+main: com.test.NightreignRelic
+api-version: "1.21"
+authors: [Lemoinie]
+description: A Paper 1.21.1 plugin.
+softdepend: [Vault]
+
+commands:
+  nr:
+    description: Main command for Nightreign Relics
+    usage: /<command> relics
